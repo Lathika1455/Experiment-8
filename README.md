@@ -5,7 +5,7 @@ The purpose of this report is to study the system specifications of an Automated
 
 ## Scope:
 This report covers the functional and non-functional aspects of an ATM system, including user authentication, transaction processing, cash dispensing, balance inquiry, and system interfaces. The scope includes identification of possible bugs that may affect performance, security, or user experience.
-
+ 
 ## Intended Audience:
 ATM system developers and engineers
 
